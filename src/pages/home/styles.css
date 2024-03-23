@@ -27,6 +27,7 @@ input {
   background: transparent;
   font-size: 18px;
   padding: 10px;
+  color: #FFFFFF;
 }
 
 button {
@@ -37,6 +38,11 @@ button {
   color: white;
   font-size: 18px;
   padding: 10px;
+}
+
+button:hover{
+  background-color: #2d333b98 ;
+  cursor: pointer;
 }
 
 .perfil {
